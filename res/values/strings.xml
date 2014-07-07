@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">PrimerHello</string>
+    <string name="panel_x">panel_x=</string>
+    <string name="panel_y">panel_y=</string>
+    <string name="acc_x">acc_x=</string>
+    <string name="acc_y">acc_y=</string>
+    <string name="acc_z">acc_z=</string>
+    <string name="acc">acc=</string>
+    <string name="acc_max">acc_max=</string>
+    <string name="acc_min">acc_min=</string>
+    <string name="timestamp_delta">timestamp_delta=</string>
+    <string name="timestamp_delta_min">timestamp_delta_min=</string>
+    <string name="discription">Some discription, updating...</string>
+    <string name="button_reset">Reset</string>
+    <string name="button_data_start">Start</string>
+    <string name="button_data_stop">Stop</string>
+    <string name="data_file_name">accel_data.txt</string>
+</resources>
